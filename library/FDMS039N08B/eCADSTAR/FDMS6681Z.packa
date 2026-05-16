@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FDMS039N08B"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-03-12-16:47:52)
+    (mountForm default
+        (footprintRef "FDMS6681Z")
+        (spec "System")
+    )
+)

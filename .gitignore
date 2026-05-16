@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# KiCad temporary / generated files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-cache*
+*-bak
+*-bak*
+*~
+~*
+~*.lck
+_autosave-*
+\#auto_saved_files\#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+_restore_*
+
+# Netlist / autorouter / BOM / DRC reports
+*.net
+*.dsn
+*.ses
+*.xml
+*.csv
+*.rpt
+
+# Archived backups
+**/*-backups/*.zip
+
+# Local per-user project state
+*.kicad_prl

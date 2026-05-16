@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=SM07B-SRSS-TB(LF)(SN)
+PartCategory=Connector
+PackageCategory=Other
+PinCount=9
+Version=3.2
+Released=2022-11-28 07:43:05
+Downloaded=2025-12-02 16:32:16
+3D=Y

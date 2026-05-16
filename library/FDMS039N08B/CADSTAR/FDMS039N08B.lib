@@ -1,0 +1,18 @@
+.FDMS039N08B :1 ;100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode
+FDMS6681Z
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN FDMS039N08B
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (FDMS039N08B)
+~!Mouser Part Number (512-FDMS039N08B)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D)
+~!Arrow Part Number (FDMS039N08B)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF)
+~!Height (1.1mm)
+~!3D_Model (FDMS039N08B)
+FDMS039N08B
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

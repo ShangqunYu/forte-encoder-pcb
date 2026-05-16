@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FDMS039N08B'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "FDMS039N08B" (!) = "", "FDMS6681Z", "Other", "512-FDMS039N08B", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D", "FDMS039N08B", "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac", "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode", "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF", "1.1 mm"
+END_PART
+
+END.

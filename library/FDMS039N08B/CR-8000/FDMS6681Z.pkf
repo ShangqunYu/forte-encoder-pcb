@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FDMS6681Z"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FDMS6681Z")
+        (spec "default")
+    )
+)

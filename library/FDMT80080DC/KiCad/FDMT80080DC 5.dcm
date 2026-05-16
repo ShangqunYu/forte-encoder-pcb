@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDMT80080DC
+D Max rDS(on) = 1.35 m at VGS = 10 V, ID = 36 A ; MSL1 robust package design ; Advanced Package and Silicon combination for low rDS(on) and high efficiency ; Next generation enhanced body diode technology, engineered for soft recovery ; 100% UIL tested ; Low profile 8x8mm MLP package ; Max rDS(on) = 1.82 m at VGS = 8 V, ID = 31 A ; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf
+$ENDCMP
+#
+#End Doc Library

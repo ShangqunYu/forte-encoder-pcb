@@ -1,0 +1,172 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "IPT012N08N5" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "Q" (id 0) (at -1.27 1.27 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "IPT012N08N5" (id 1) (at 11.43 -6.35 90.0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "IPT012N08N5:INF-PG-HSOF-8-1-0" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "IPT012N08N5_0_0"
+      (polyline
+        (pts (xy 2.032 -0.254) (xy 2.032 -2.54)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.032 -2.54) (xy 2.032 -4.826)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -0.254) (xy 2.54 -0.762)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -0.762) (xy 2.54 -1.27)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -2.032) (xy 2.54 -2.54)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -2.54) (xy 2.54 -3.048)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -3.81) (xy 2.54 -4.318)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -4.318) (xy 2.54 -4.826)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 0.0 -2.54) (xy 2.032 -2.54)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -0.762) (xy 5.08 -0.762)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 5.08 -0.762) (xy 5.08 0.0)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -2.54) (xy 5.08 -2.54)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 5.08 -2.54) (xy 5.08 -4.318)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 5.08 -4.318) (xy 5.08 -5.08)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 2.54 -4.318) (xy 5.08 -4.318)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 5.08 0.0) (xy 7.62 0.0)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 7.62 0.0) (xy 7.62 -5.08)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 7.62 -5.08) (xy 5.08 -5.08)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 6.604 -1.778) (xy 7.62 -1.778)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 7.62 -1.778) (xy 8.636 -1.778)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 6.604 -3.302) (xy 8.636 -3.302)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 8.636 -3.302) (xy 7.62 -1.778)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts (xy 7.62 -1.778) (xy 6.604 -3.302)) (stroke (width 0.1778))
+      )
+      (polyline
+        (pts
+          (xy 2.54 -2.54)
+          (xy 4.064 -3.048)
+          (xy 4.064 -2.032)
+          (xy 2.54 -2.54)
+        )
+        (stroke (width 0.1778)) (fill (type outline))
+      )
+      (text "2,3,4,5," (at 3.175 -4.445 900)
+        (effects (font (size 1.27 1.27)) (justify top right))
+      )
+      (text "6,7,8" (at 6.985 -10.16 900)
+        (effects (font (size 1.27 1.27)) (justify bottom left))
+      )
+      (pin passive line (at -5.08 -2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -10.16 90.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -10.16 90.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 5.08 270.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -10.16 90.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -10.16 90.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -10.16 90.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -10.16 90.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -10.16 90.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

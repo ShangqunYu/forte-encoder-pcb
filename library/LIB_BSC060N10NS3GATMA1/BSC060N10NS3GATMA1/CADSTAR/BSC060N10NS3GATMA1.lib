@@ -1,0 +1,16 @@
+.BSC060N10NS3GATMA1 :1 ;N-Channel 100 V 14.9A (Ta), 90A (Tc) 125W (Tc) Surface Mount PG-TDSON-8-1 MOSFET N-CH 100V 14.9/90A 8TDSON
+BSC060N10NS3GATMA1
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN BSC060N10NS3GATMA1
+~!Mouser Part Number (726-BSC060N10NS3GATM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC060N10NS3GATMA1?qs=K00xGehIljsfoJ1fZPGMDg%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (BSC060N10NS3GATMA1)
+~!Link Datasheet (https://www.infineon.com/dgdl/Infineon-BSC060N10NS3%20G-DataSheet-v02_05-EN.pdf?fileId=db3a30431ce5fb52011d1aab7f90133a)
+~!Height (1.1mm)
+~!3D_Model (BSC060N10NS3GATMA1)
+BSC060N10NS3GATMA1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

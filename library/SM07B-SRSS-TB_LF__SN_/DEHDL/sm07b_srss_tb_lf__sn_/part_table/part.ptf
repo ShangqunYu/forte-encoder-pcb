@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SM07B_SRSS_TB_LF__SN_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "JST (JAPAN SOLDERLESS TERMINALS)", "SM07B-SRSS-TB(LF)(SN)" (!) = "", "SM07BSRSSTBLFSN", "Other", "N/A", "https://www.mouser.co.uk/ProductDetail/JST-Commercial/SM07B-SRSS-TBLFSN?qs=QpmGXVUTftFKhPFIBzZDQw%3D%3D", "Connector Header Surface Mount, Right Angle 7 position 0.039" (1.00mm)", "http://www.jst-mfg.com/product/pdf/eng/eSH.pdf", "2.95 mm"
+END_PART
+
+END.

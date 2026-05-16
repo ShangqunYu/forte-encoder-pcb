@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FDMT80080DC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "onsemi", "FDMT80080DC" (!) = "", "FDMT80040DC", "Other", "512-FDMT80080DC", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMT80080DC?qs=HNBw3F7vE2wScr8WdXWm%252Bg%3D%3D", "Max rDS(on) = 1.35 m at VGS = 10 V, ID = 36 A ; MSL1 robust package design ; Advanced Package and Silicon combination for low rDS(on) and high efficiency ; Next generation enhanced body diode technology, engineered for soft recovery ; 100% UIL tested ; Low profile 8x8mm MLP package ; Max rDS(on) = 1.82 m at VGS = 8 V, ID = 31 A ; RoHS Compliant", "https://www.onsemi.com/pub/Collateral/FDMT80080DC-D.pdf"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BSC060N10NS3GATMA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "BSC060N10NS3GATMA1" (!) = "", "BSC060N10NS3GATMA1", "Other", "726-BSC060N10NS3GATM", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSC060N10NS3GATMA1?qs=K00xGehIljsfoJ1fZPGMDg%3D%3D", "N-Channel 100 V 14.9A (Ta), 90A (Tc) 125W (Tc) Surface Mount PG-TDSON-8-1 MOSFET N-CH 100V 14.9/90A 8TDSON", "https://www.infineon.com/dgdl/Infineon-BSC060N10NS3%20G-DataSheet-v02_05-EN.pdf?fileId=db3a30431ce5fb52011d1aab7f90133a", "1.1 mm"
+END_PART
+
+END.

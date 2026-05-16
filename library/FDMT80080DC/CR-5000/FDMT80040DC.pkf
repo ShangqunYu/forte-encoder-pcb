@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FDMT80040DC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FDMT80040DC")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDMS039N08B
+D 100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode
+K
+F https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF
+$ENDCMP
+#
+#End Doc Library
