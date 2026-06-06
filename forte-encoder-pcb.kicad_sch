@@ -9667,12 +9667,6 @@
 		(uuid "27e12b87-9fd4-4733-92ba-0fc0a7c6835b")
 	)
 	(junction
-		(at 364.49 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "28624483-a8a3-4ff8-a391-3ad00f8ee646")
-	)
-	(junction
 		(at 143.51 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9743,12 +9737,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5d113a75-0bc0-4c34-aa21-1a8b89e2cd77")
-	)
-	(junction
-		(at 612.14 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6089df7e-58c9-4234-8b44-0c55e86741a3")
 	)
 	(junction
 		(at 345.44 39.37)
@@ -9883,22 +9871,10 @@
 		(uuid "ebde31d9-8096-477f-98eb-a030e408ee72")
 	)
 	(junction
-		(at 502.92 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "edbac6f1-192c-43e8-bcd4-a581ab391549")
-	)
-	(junction
 		(at 612.14 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f869dc0d-6eef-4899-b040-63c84cd3d240")
-	)
-	(junction
-		(at 528.32 85.09)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f89a2c17-f7b2-4101-8020-2c68185b11ad")
 	)
 	(junction
 		(at 251.46 44.45)
@@ -10702,7 +10678,7 @@
 	)
 	(wire
 		(pts
-			(xy 502.92 46.99) (xy 502.92 53.34)
+			(xy 502.92 44.45) (xy 502.92 53.34)
 		)
 		(stroke
 			(width 0)
@@ -10772,16 +10748,6 @@
 	)
 	(wire
 		(pts
-			(xy 502.92 44.45) (xy 502.92 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5edd4ff9-1502-48fb-930b-4882c771854d")
-	)
-	(wire
-		(pts
 			(xy 530.86 48.26) (xy 523.24 48.26)
 		)
 		(stroke
@@ -10792,7 +10758,7 @@
 	)
 	(wire
 		(pts
-			(xy 359.41 39.37) (xy 364.49 39.37)
+			(xy 359.41 39.37) (xy 370.84 39.37)
 		)
 		(stroke
 			(width 0)
@@ -11142,7 +11108,7 @@
 	)
 	(wire
 		(pts
-			(xy 528.32 85.09) (xy 528.32 86.36)
+			(xy 528.32 80.01) (xy 528.32 86.36)
 		)
 		(stroke
 			(width 0)
@@ -11302,7 +11268,7 @@
 	)
 	(wire
 		(pts
-			(xy 612.14 53.34) (xy 612.14 46.99)
+			(xy 612.14 44.45) (xy 612.14 53.34)
 		)
 		(stroke
 			(width 0)
@@ -11562,16 +11528,6 @@
 	)
 	(wire
 		(pts
-			(xy 612.14 46.99) (xy 612.14 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d054f8fc-9d1e-4365-a883-cc8d003d91e6")
-	)
-	(wire
-		(pts
 			(xy 100.33 21.59) (xy 100.33 36.83)
 		)
 		(stroke
@@ -11682,16 +11638,6 @@
 	)
 	(wire
 		(pts
-			(xy 528.32 80.01) (xy 528.32 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1ee2392-c353-4e5b-bbe0-a81fbdebb96a")
-	)
-	(wire
-		(pts
 			(xy 63.5 182.88) (xy 71.12 182.88)
 		)
 		(stroke
@@ -11729,16 +11675,6 @@
 			(type default)
 		)
 		(uuid "e696eb43-abf0-4777-a60e-30e3bfb97cd7")
-	)
-	(wire
-		(pts
-			(xy 364.49 39.37) (xy 370.84 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e799720a-ff32-44be-9d5e-fd2d11cbeb65")
 	)
 	(wire
 		(pts
@@ -17284,85 +17220,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 364.49 39.37 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8a704abf-76d5-431e-923a-7a1e359fe802")
-		(property "Reference" "TP1"
-			(at 367.03 41.4019 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "+12V TestPoint"
-			(at 367.03 43.9419 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
-			(at 359.41 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 359.41 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 364.49 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "628e9692-37a3-4c22-980d-a98c2efbb830")
-		)
-		(instances
-			(project "forte-encoder-pcb"
-				(path "/4fd4f7f7-4e27-480c-b1ee-dc0730be04ca"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 241.3 189.23 0)
 		(unit 1)
@@ -19361,85 +19218,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 502.92 46.99 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c26be5d3-a858-4b6a-8430-794e7d0b9274")
-		(property "Reference" "TP3"
-			(at 508 45.7199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "+5V TestPoint"
-			(at 508 48.2599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
-			(at 502.92 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 502.92 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 502.92 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6a19afcc-2f77-473d-a2b7-81ec02e1ffd3")
-		)
-		(instances
-			(project "forte-encoder-pcb"
-				(path "/4fd4f7f7-4e27-480c-b1ee-dc0730be04ca"
-					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 133.35 59.69 0)
 		(unit 1)
@@ -20998,85 +20776,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 528.32 85.09 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ee509a34-b972-478c-99b9-ed46d07a142d")
-		(property "Reference" "TP_GND2"
-			(at 533.4 83.8199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND TestPoint"
-			(at 533.4 86.3599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
-			(at 528.32 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 528.32 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 528.32 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e17acf55-f575-4881-9c8a-5dc0b1a64cf9")
-		)
-		(instances
-			(project "forte-encoder-pcb"
-				(path "/4fd4f7f7-4e27-480c-b1ee-dc0730be04ca"
-					(reference "TP_GND2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
 		(at 444.5 165.1 0)
 		(unit 1)
@@ -21148,85 +20847,6 @@
 			(project "forte-encoder-pcb"
 				(path "/4fd4f7f7-4e27-480c-b1ee-dc0730be04ca"
 					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 612.14 46.99 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f06618ed-0898-40f1-85e6-41db7abdf99f")
-		(property "Reference" "TP4"
-			(at 617.22 45.7199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "+3.3V TestPoint"
-			(at 617.22 48.2599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
-			(at 612.14 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 612.14 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 612.14 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a6b4a859-e33b-4a67-afa8-f2f3f22fd912")
-		)
-		(instances
-			(project "forte-encoder-pcb"
-				(path "/4fd4f7f7-4e27-480c-b1ee-dc0730be04ca"
-					(reference "TP4")
 					(unit 1)
 				)
 			)
