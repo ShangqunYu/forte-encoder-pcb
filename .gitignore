@@ -35,3 +35,5 @@ _restore_*
 
 # Local per-user project state
 *.kicad_prl
+
+.history
