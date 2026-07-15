@@ -9406,10 +9406,6 @@
 		(uuid "6f2f5530-10e4-4712-9edb-02377be5ffe7")
 	)
 	(no_connect
-		(at 80.01 72.39)
-		(uuid "74179f76-b4ea-4189-949b-37ae10732666")
-	)
-	(no_connect
 		(at 71.12 180.34)
 		(uuid "7aa2465d-e6eb-4f22-a5e0-811fba37f291")
 	)
@@ -9476,6 +9472,10 @@
 	(no_connect
 		(at 87.63 72.39)
 		(uuid "e5561a91-4eef-4b21-83ca-d6400ec3c83a")
+	)
+	(no_connect
+		(at 74.93 72.39)
+		(uuid "ef479e22-d88a-46a9-9b7a-32c3f0aa7d1a")
 	)
 	(no_connect
 		(at 95.25 36.83)
@@ -9922,16 +9922,6 @@
 			(type default)
 		)
 		(uuid "3f6dde86-1790-4e30-9460-0f535e48c7c7")
-	)
-	(wire
-		(pts
-			(xy 74.93 72.39) (xy 74.93 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "408bf585-199d-4fbf-a0c2-d1c81e461cfa")
 	)
 	(wire
 		(pts
@@ -10895,6 +10885,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 72.39) (xy 80.01 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1600cf4-ec90-42d3-9f71-86cfc6a46274")
+	)
+	(wire
+		(pts
 			(xy 275.59 63.5) (xy 275.59 82.55)
 		)
 		(stroke
@@ -11586,17 +11586,6 @@
 		)
 		(uuid "ab5afb8d-bc73-43ef-b81d-42b5973ad17f")
 	)
-	(label "TMS"
-		(at 74.93 82.55 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left bottom)
-		)
-		(uuid "ac0c5654-415c-4e08-aaaf-1eb42b1fc660")
-	)
 	(label "CS"
 		(at 57.15 177.8 0)
 		(effects
@@ -11606,6 +11595,17 @@
 			(justify left bottom)
 		)
 		(uuid "b655190e-088d-41c0-a1c7-1230ae400ec8")
+	)
+	(label "TMS"
+		(at 80.01 82.55 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left bottom)
+		)
+		(uuid "b76820c4-1bd4-4f2c-aa7e-a0f0e3c2dd3a")
 	)
 	(label "MISO"
 		(at 57.15 182.88 0)
