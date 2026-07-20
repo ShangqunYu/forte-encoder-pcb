@@ -11363,16 +11363,6 @@
 		)
 		(uuid "07ae7f5e-42ff-40ed-81e2-e964b3d3529f")
 	)
-	(label "CAN+"
-		(at 402.59 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "16e57817-7ae9-4d38-949d-6a3a224d5c6b")
-	)
 	(label "RCC_OSC_OUT"
 		(at 100.33 22.86 270)
 		(effects
@@ -11405,14 +11395,14 @@
 		(uuid "1ea2dcf9-01df-43d3-98c6-4d8475cc9c35")
 	)
 	(label "CAN-"
-		(at 402.59 158.75 0)
+		(at 402.59 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "22a1f8a9-a638-4b68-8a0e-bfbf15fc9f06")
+		(uuid "2768ce21-87ef-4db3-b8c5-30f4481bcf4c")
 	)
 	(label "SCK"
 		(at 125.73 180.34 0)
@@ -11555,6 +11545,16 @@
 			(justify left bottom)
 		)
 		(uuid "9a982167-2836-4b06-a6e2-19eaf62c1286")
+	)
+	(label "CAN+"
+		(at 402.59 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9eca7214-1921-451c-9511-edfada850c19")
 	)
 	(label "MOSI"
 		(at 57.15 175.26 0)
