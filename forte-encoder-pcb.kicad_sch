@@ -9270,12 +9270,6 @@
 		(uuid "c76f3cfe-6ee9-490a-87c4-5cb4924e2fcd")
 	)
 	(junction
-		(at 416.56 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ca16db57-e7e5-4794-862d-d245bcc4fa94")
-	)
-	(junction
 		(at 320.04 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9605,7 +9599,7 @@
 	)
 	(wire
 		(pts
-			(xy 416.56 78.74) (xy 416.56 82.55)
+			(xy 416.56 78.74) (xy 416.56 85.09)
 		)
 		(stroke
 			(width 0)
@@ -10792,16 +10786,6 @@
 			(type default)
 		)
 		(uuid "a69e6fb5-bb9e-4abc-994a-f3fc180d14d7")
-	)
-	(wire
-		(pts
-			(xy 416.56 82.55) (xy 416.56 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abc3d3a5-38d8-47d3-b2fb-19b2f4b02a78")
 	)
 	(wire
 		(pts
@@ -18411,85 +18395,6 @@
 			(project "forte-encoder-pcb"
 				(path "/4fd4f7f7-4e27-480c-b1ee-dc0730be04ca"
 					(reference "#FLG05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 416.56 82.55 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b47f792d-f3f6-41d7-b2e0-89df06e5f771")
-		(property "Reference" "TP_GND1"
-			(at 421.64 81.2799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND TestPoint"
-			(at 421.64 83.8199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
-			(at 416.56 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 416.56 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 416.56 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "621ed34b-df7d-417a-82b5-620c7777aec7")
-		)
-		(instances
-			(project "forte-encoder-pcb"
-				(path "/4fd4f7f7-4e27-480c-b1ee-dc0730be04ca"
-					(reference "TP_GND1")
 					(unit 1)
 				)
 			)
